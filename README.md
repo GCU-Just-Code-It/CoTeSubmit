@@ -9,7 +9,6 @@
 <img width="160px" src="https://avatars.githubusercontent.com/u/105594739?v=4"/> | <img width="160px" src="https://avatars.githubusercontent.com/u/106726806?v=4"/> | <img width="160px" src="https://avatars.githubusercontent.com/u/106726806?v=4"/> | <img width="160px" src="https://avatars.githubusercontent.com/u/106726806?v=4"/> | <img width="160px" src="https://avatars.githubusercontent.com/u/106726806?v=4"/> |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
 |[김동윤]([https://github.com/LeeeeSuHyeon](https://github.com/dyk-im))|[한승현](https://github.com/1winhyun)|[서상효](https://github.com/seoshinehyo)| [황세빈](https://github.com/Hwang-sebin)| [이지훈](https://github.com/huncozyboy)|
-|팀장 👑|팀원 👨🏻‍💻|팀원 👨🏻‍💻|팀원 👨🏻‍💻|팀원 👨🏻‍💻|
 |화이팅|화이팅|화이팅|화이팅|화이팅|
 |BE|BE|BE|BE|BE|
 
