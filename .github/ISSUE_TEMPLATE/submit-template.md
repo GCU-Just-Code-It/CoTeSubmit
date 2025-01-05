@@ -1,20 +1,3 @@
----
-name: Submit Template
-about: Answer, Discussion, Question, Help will be here
-title: "[Submit] [issue title]"
-labels: ''
-assignees: ''
-
----
-
----
-name: feature
-about: Suggest an idea for this project
-title: "[Submit] [issue title]"
-labels: ''
-assignees: ''
-
----
 
 ## Issue : ✅ Submit
 어떤 목적의 이슈인지 작성
